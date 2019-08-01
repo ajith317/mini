@@ -1,0 +1,404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"from",
+				"form-control"
+			],
+			[
+				"for",
+				"form-group"
+			],
+			[
+				"fro",
+				"form-control"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"fr",
+				"form-control"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fo",
+				"form-control"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fru",
+				"fruits"
+			],
+			[
+				"ans",
+				"ans1"
+			],
+			[
+				"s",
+				"sbtn"
+			],
+			[
+				"im",
+				"implements"
+			],
+			[
+				"le",
+				"border-left"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"ob",
+				"ob1"
+			],
+			[
+				"a",
+				"a"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "navigation.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title>Login Page</title>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"login.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"nav.css\">\n\t  <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css\">\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js\"></script>\n  <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js\"></script> \n\n\n</head>\n<body>\n\n\t<div class=\"sidenav\">\n  <a href=\"index.html\">Home</a>\n  \n  <a href=\"#Oders\">Oders</a>\n  <a href=\"#contact\">Contact</a>\n  \n  <button class=\"dropdown-btn\">Dropdown \n    <i class=\"fa fa-caret-down\"></i>\n  </button>\n  <div class=\"dropdown-container\">\n    <a href=\"#\">Link 1</a>\n    <a href=\"#\">Link 2</a>\n    <a href=\"#\">Link 3</a>\n  </div>\n  <a href=\"#contact\">Search</a>\n</div>\n\n\t<form class=\"login\">\n\t\t<h1> Login</h1>\n\t\t<form action=\"checklogin.php\">\n\t\t<div class=\"form-group\">\n\t\t<input type=\"text\" class=\"form-control\" name=\"un\" placeholder=\"UserName\" />\n\t\t</div>\n\n\t\t<div class=\"form-group\">\n\t\t\t<input type=\"password\" class=\"form-control\" name=\"pas\" placeholder=\"Password\" />\n\t\t</div>\n\t\t<div class=\"form-group\">\n\t\t\t<input type=\"button\"  class=\"form-control\" id=\"sub-btn\" value=\"Submit\" />\n\t\t</div>\n\n\t\t<div class=\"form-group\">\n\t\t\t<span id=\"info\">\n\t\t\t\t<a href=\"newacnt.html\">\n\t\t\t\t<label>Create a new account? </label>\n\t\t\t</a>\n\t\t\t</span>\n\n\t\t\t<div class=\"form-group\">\n\t\t\t<span id=\"forgot_pass\">\n\t\t\t\t<label>Forgot Password </label>\n\t\t\t\t</span>\n\t\t</div>\n\t</form>\n\t</form>\n\n\n</body>\n</html>",
+			"file": "Login.html",
+			"file_size": 1605,
+			"file_write_time": 132089473866111423,
+			"settings":
+			{
+				"buffer_size": 1561,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 220.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Z/aji/index.html",
+		"/Z/aji/login.html",
+		"/Z/Mini_Project/nav.css",
+		"/Z/sublimetext/foot.css",
+		"/Z/Mini Project/acnt.css",
+		"/Z/Mini Project/newacnt.html",
+		"/Z/Mini Project/login.css",
+		"/Z/Mini_Project/index.html",
+		"/Z/Mini Project/nav.css",
+		"/Z/Mini Project/Login.html",
+		"/Z/Mini Project/index.html",
+		"/Z/Mini Project/Home.html",
+		"/Z/Mini Project/navigation.html",
+		"/Z/js/simple.html",
+		"/Z/js/new.html",
+		"/Z/db/aj.php",
+		"/Z/html/design.css",
+		"/Z/html/calci.js",
+		"/Z/html/umperuvai.html",
+		"/Z/html/class.htm;",
+		"/Z/html/AnotherLogin.html",
+		"/Z/html/ui.html",
+		"/Z/html/home.html",
+		"/Z/aha.java",
+		"/Z/ab.java",
+		"/Z/star.java",
+		"/Z/ajith",
+		"/Z/ab.java]",
+		"/Z/python/opr.py",
+		"/D/aji.py",
+		"/D/ab.java"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "navigation.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1516,
+								1516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Home.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
